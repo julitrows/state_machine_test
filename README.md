@@ -1,4 +1,4 @@
-This is a simple repo with two models to showcase the states_machine gem warning messages with Ruby 2.7
+This is a simple repo with two models to showcase the states_machine gem warning messages with Ruby 2.7 as explained here: https://github.com/state-machines/state_machines/issues/82
 
 ```
 1. Clone the repo
