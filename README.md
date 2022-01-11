@@ -4,7 +4,8 @@ This is a simple repo with two models to showcase the states_machine gem warning
 1. Clone the repo
 2. make sure you're on Ruby 2.7
 3. bundle install
-4. rails db:crate
+4. yarn install
+4. rails db:crate db:migrate
 5. rake
 ```
 
